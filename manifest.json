@@ -1,11 +1,11 @@
 {
-    "name": "isbue_flutter",
-    "short_name": "isbue_flutter",
+    "name": "isbue",
+    "short_name": "isbue",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Isbue flutter",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
